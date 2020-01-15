@@ -9,7 +9,7 @@ Output: Three plots with the free energies and an output file named 'output.txt'
 Dr. Swapnil Wagle                                                                             
 Max Planck Institute of Colloids and Interfaces                                               
 Potsdam, Germany                                                                              
-E-mail: swapnil.wagle@mpikg.mpg.de  
+E-mail: swapnil.wagle[at]mpikg[dot]mpg[second_dot]de  
 
 # Reading Materials
 
