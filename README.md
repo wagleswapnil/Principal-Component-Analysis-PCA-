@@ -6,10 +6,13 @@ Output: Three plots with the free energies and an output file named 'output.txt'
                                                                                                
 # Author
 
-Dr. Swapnil Wagle                                                                             
+Dr. Swapnil Wagle
+University of California, Irvine
+Email: swapnilw[at]uci[dot]edu
+
+Previous:
 Max Planck Institute of Colloids and Interfaces                                               
-Potsdam, Germany                                                                              
-E-mail: swapnil.wagle[at]mpikg[dot]mpg[second_dot]de  
+Potsdam, Germany                                                                               
 
 # Reading Materials
 
